@@ -143,13 +143,13 @@ Open your browser and navigate to `http://localhost:5173`
 - **Model Errors**: Check Python console for detailed ML model error messages
 
 ## 📊 Demo Screenshots
-![Dashboard](https://github.com/user-attachments/assets/59d1b246-431b-426d-99e0-cdcd95431d54)
-![Trading View](https://github.com/user-attachments/assets/ff437ab3-43da-4c38-9414-2c3cd6732f20)
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/e85f5b1b-7128-4e32-b331-44e990f57d0f" />
+![image](https://github.com/user-attachments/assets/d59f6db8-91c9-4d48-8f21-f1f872cb8976)
+
 
 ## 📬 Contact
-- 📧 Email: rupesh583k@gmail.com
-- 🐙 GitHub: [26kumar](https://github.com/26kumar)
-- 🔗 LinkedIn: [Rupesh Kumar](https://www.linkedin.com/in/rupesh-kumar-567198279)
+- 🐙 GitHub: [Rishabh-tesla-arc](https://github.com/Rishabh-tesla-arc)
+- 🔗 LinkedIn: [Rishabh Shrivastav](https://www.linkedin.com/in/rishabhshrivastav-swe/)
 
 ---
 **⭐ If you like this project, give it a star!** 🚀
