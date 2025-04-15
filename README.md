@@ -1,6 +1,8 @@
 # AlgoTrade - Algorithmic Trading Platform
 
-![AlgoTrade](<img width="959" alt="image" src="https://github.com/user-attachments/assets/f4da8ade-591f-4aa4-aeb8-57c52db5fa26" />)
+![AlgoTrade](https://github.com/user-attachments/assets/f4da8ade-591f-4aa4-aeb8-57c52db5fa26)
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/13c8e759-eff6-46eb-9983-8d0d686a75d7" />
+
 
 ## 📌 Overview
 AlgoTrade is an advanced algorithmic trading platform designed to assist traders in making data-driven decisions. The platform leverages machine learning models to provide intelligent trade recommendations and integrates with market data APIs to fetch real-time information, helping users execute trades based on quantitative analysis rather than emotions.
