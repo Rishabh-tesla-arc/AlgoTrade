@@ -1,7 +1,6 @@
 # AlgoTrade - Algorithmic Trading Platform
 
 ![AlgoTrade](https://github.com/user-attachments/assets/f4da8ade-591f-4aa4-aeb8-57c52db5fa26)
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/13c8e759-eff6-46eb-9983-8d0d686a75d7" />
 
 
 ## 📌 Overview
