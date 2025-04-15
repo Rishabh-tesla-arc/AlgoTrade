@@ -144,7 +144,8 @@ Open your browser and navigate to `http://localhost:5173`
 
 ## 📊 Demo Screenshots
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/e85f5b1b-7128-4e32-b331-44e990f57d0f" />
-![image](https://github.com/user-attachments/assets/d59f6db8-91c9-4d48-8f21-f1f872cb8976)
+![Strategy](https://github.com/user-attachments/assets/9d22103e-9055-478c-8165-93c3e1254e84)
+
 
 
 ## 📬 Contact
